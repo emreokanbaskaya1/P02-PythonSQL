@@ -37,5 +37,4 @@ This project demonstrates basic database operations using **Python 3.13** and **
 ---
 
 ## This project was created for individual learning purposes based on the course content prepared by Atıl Samancıoğlu.
-
 ## 👉 You can access the course here: Artificial Intelligence: 100-Day Bootcamp

@@ -38,3 +38,8 @@ This project demonstrates basic database operations using **Python 3.13** and **
 Bu proje, [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/) tarafından hazırlanan eğitim içeriği temel alınarak bireysel öğrenme amacıyla oluşturulmuştur.
 
 ## 👉 Kursa buradan ulaşabilirsiniz: [Yapay Zeka: 100 Günlük Kamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/)
+
+## 📚 Kaynakça
+Bu proje, [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/) tarafından hazırlanan eğitim içeriği temel alınarak bireysel öğrenme amacıyla oluşturulmuştur.
+
+## 👉 Kursa buradan ulaşabilirsiniz: [Yapay Zeka: 100 Günlük Kamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/)
